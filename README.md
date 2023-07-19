@@ -4,6 +4,7 @@
 #### I am a Full Stack Web Developer, and really love to code and continue learning to code. In my "free time", I love to write and record music, as well.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JKLA13)
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=JKLA13)
 
 ### Technical Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
